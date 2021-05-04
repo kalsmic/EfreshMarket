@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E fresh Market</string>
+    <string name="business_description">We deliver at your doorstep the best of Uganda\'s Fresh products From the Garden.</string>
+    <string name="order_now">Place your order now!</string>
+    <string name="business_location">Kampala</string>
+    <string name="business_phone_contact">+256-772-262-450</string>
+    <string name="business_hours">Everyday (8am - 5pm)</string>
+</resources>
